@@ -16,7 +16,7 @@ python main2.py
 ```
 
 ## How to play:
-- Read and follow the instructions in the game, but basically TRY TO KILL YOUR ENEMY
-- There are probably bugs or errors that crash the game that I didn't foresee (because I'm noob maybe ^^!)
+- Read and follow the instructions in the game, but basically TRY TO KILL YOUR ENEMIES
+- There are probably bugs or errors that I didn't foresee (because I'm noob maybe ^^!)
 - If you input incorrect values, e.g characters in stead of numbers, you will miss your turn (I will probably fix it later)
 - Once you've made decision, you won't be able to go back and choose again (sorry, that's life )
